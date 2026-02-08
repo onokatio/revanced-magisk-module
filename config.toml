@@ -67,11 +67,14 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 uptodown-dlurl = "https://twitter.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 build-mode = "apk"
-dpi = "120-640dpi"
+# dpi = "120-640dpi"
+patches-source = "crimera/piko"
+cli-source = "inotia00/revanced-cli"
 
 [TikTok]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly"
