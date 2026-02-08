@@ -1,6 +1,6 @@
 {
   "version": "v7.61.0.860908034 (patches 5.48.0.rvp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/onokatio/revanced-magisk-module/releases/download/2/googlephotos-revanced-magisk-v7.61.0.860908034-arm64-v8a.zip",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/onokatio/revanced-magisk-module/releases/download/3/googlephotos-revanced-magisk-v7.61.0.860908034-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/onokatio/revanced-magisk-module/update/build.md"
 }
